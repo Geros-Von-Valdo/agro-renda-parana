@@ -12,9 +12,9 @@ ano     <- unique(na.omit(base$ano_pib))[1]
 ano_pam <- unique(na.omit(base$ano_pam))[1]
 
 fonte_pib <- paste0("Fonte: elaborado pelo autor com dados do IBGE, PIB dos Municípios (",
-                    ano, "). Malha municipal: IBGE, via geobr (Ipea).")
+                    ano, ").")
 fonte_pam <- paste0("Fonte: elaborado pelo autor com dados do IBGE, Produção Agrícola Municipal (",
-                    ano_pam, "). Malha municipal: IBGE, via geobr (Ipea).")
+                    ano_pam, ").")
 
 # Municípios com VAB total <= 0 (em 2021, só Cachoeira Dourada/GO, por causa
 # da usina hidrelétrica) não têm participação setorial interpretável

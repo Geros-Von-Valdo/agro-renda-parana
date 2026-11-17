@@ -113,7 +113,7 @@ stopifnot("Renda per capita não foi baixada; veja as mensagens acima" =
 nota_anos <- paste0("PIB per capita de ", ano, " (população estimada do mesmo ano); ",
                     "renda domiciliar per capita do Censo 2022, em R$ correntes.")
 fonte_renda <- paste0("Fonte: elaborado pelo autor com dados do IBGE: PIB dos Municípios (", ano,
-                      ") e Censo Demográfico 2022. Malha: IBGE, via geobr (Ipea).")
+                      ") e Censo Demográfico 2022.")
 reais <- label_number(prefix = "R$ ", big.mark = ".", decimal.mark = ",", accuracy = 1)
 cores_setor <- c("Agropecuária" = "#4a9a3f", "Indústria" = "#5b4a9b",
                  "Serviços e adm. pública" = "grey60")

@@ -108,5 +108,5 @@ salvar <- function(g, nome, w = 7, h = 7) {
   }, finally = showtext::showtext_opts(dpi = 96))
 }
 
-fonte_pib <- "Fonte: IBGE, PIB dos Municípios (SIDRA 5938). Malha: geobr/Ipea."
-fonte_pam <- "Fonte: IBGE, Produção Agrícola Municipal (SIDRA 5457). Malha: geobr/Ipea."
+fonte_pib <- "Fonte: elaborado pelo autor com dados do IBGE."
+fonte_pam <- "Fonte: elaborado pelo autor com dados do IBGE."

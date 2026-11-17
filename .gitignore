@@ -1,0 +1,14 @@
+# Dados baixados do IBGE (o 01_dados.R baixa tudo de novo)
+dados/
+
+# Sessão do R / RStudio
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+*.Rproj.user
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

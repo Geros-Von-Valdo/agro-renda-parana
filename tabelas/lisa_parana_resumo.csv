@@ -1,0 +1,6 @@
+lisa;municipios
+Alto-Alto: agro forte cercado por vizinhos com agro forte;12
+Baixo-Baixo: agro fraco cercado por vizinhos com agro fraco;31
+Alto-Baixo: agro forte isolado em vizinhança de agro fraco;6
+Baixo-Alto: agro fraco isolado em vizinhança de agro forte;8
+Sem agrupamento estatisticamente significativo;342
